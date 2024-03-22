@@ -1,0 +1,13 @@
+h1:first-of-type{
+background-color: aquamarine;
+font-size: 40px;
+text-align: center ;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+background-color: rgb(223, 238, 7);
+
+}
