@@ -1,13 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Rakkas&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rakkas&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    background-color: rgb(0, 0, 0);
+}
 h1:first-of-type{
-background-color: aquamarine;
+background-color: rgb(255, 176, 5);
 font-size: 40px;
 text-align: center ;
-font-family: 'Times New Roman', Times, serif;
+font-family: "Roboto Condensed", sans-serif;
+
+border-style: solid;
+  border-width: 5px;
 }
 
 
 h2 {
+    font-family: "Open Sans", sans-serif;
+background-color: rgb(255, 125, 4);
+
+border-style: double;
+  border-width: 5px 4px;
+}
+h3 {
     font-family: 'Times New Roman', Times, serif;
-background-color: rgb(223, 238, 7);
+background-color: rgb(251, 255, 0);
+
 
 }
